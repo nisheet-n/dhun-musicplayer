@@ -6,5 +6,5 @@ Click on the library button to choose a track and play. You can also skip forwar
 Additionally, number of tracks will be increased in future. <br/>
 <br/>
 Check it out live at: https://nisheet-n.github.io/dhun-musicplayer/
-<br/><br/>
+<br/>
 Thanks and Enjoy! 💖🎵
