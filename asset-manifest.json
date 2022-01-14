@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhun-musicplayer/static/css/main.2584184b.css",
+    "main.js": "/dhun-musicplayer/static/js/main.a73d0997.js",
+    "static/js/787.b87195e2.chunk.js": "/dhun-musicplayer/static/js/787.b87195e2.chunk.js",
+    "index.html": "/dhun-musicplayer/index.html",
+    "main.2584184b.css.map": "/dhun-musicplayer/static/css/main.2584184b.css.map",
+    "main.a73d0997.js.map": "/dhun-musicplayer/static/js/main.a73d0997.js.map",
+    "787.b87195e2.chunk.js.map": "/dhun-musicplayer/static/js/787.b87195e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2584184b.css",
+    "static/js/main.a73d0997.js"
+  ]
+}
